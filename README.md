@@ -3,4 +3,5 @@ This is a Linear Regression model that evaluates the chances of admission to the
 The model has been created using the Scikit Learn library. 
 
 > The inputs are: 
+
 *GRE Score of the candidate
